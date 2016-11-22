@@ -1,0 +1,19 @@
+Fri Dec 16 14:58:09 2011
+
+	 ********SUMMARY*********
+Sample:	Wmunu, XSection:	10460
+TOTAL NUMBER OF EVENTS:		1.39782e+06
+Period 1: 475054  Period 2: 922119
+Weighted AB Period 1: 472544
+Weighted AB Period 2: 924593
+Weighted CD Period 1: 472544
+Weighted CD Period 2: 918809
+AFTER GOODRUNSLIST:		0
+	 **Cutflow in Region C Period 1**
+
+
+	**QCD ESTIMATE**	
+Na:	28.4608
+Nb:	12.0556
+Nc:	8.40529
+Nd:	1.58447

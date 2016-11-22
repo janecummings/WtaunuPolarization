@@ -1,0 +1,19 @@
+Fri Jan 20 00:49:38 2012
+
+	 ********SUMMARY*********
+Sample:	ttbarhad, XSection:	63.936
+TOTAL NUMBER OF EVENTS:		29975
+Period 1: 10191  Period 2: 19783
+Weighted AB Period 1: 7850.65
+Weighted AB Period 2: 15340.8
+Weighted CD Period 1: 7850.65
+Weighted CD Period 2: 15297.5
+AFTER GOODRUNSLIST:		0
+	 **Cutflow in Region C Period 1**
+
+
+	**QCD ESTIMATE**	
+Na:	0
+Nb:	0
+Nc:	0
+Nd:	0

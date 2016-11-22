@@ -1,0 +1,19 @@
+Fri Dec 16 15:12:03 2011
+
+	 ********SUMMARY*********
+Sample:	Ztautau, XSection:	990
+TOTAL NUMBER OF EVENTS:		998082
+Period 1: 339277  Period 2: 658575
+Weighted AB Period 1: 342336
+Weighted AB Period 2: 658249
+Weighted CD Period 1: 342336
+Weighted CD Period 2: 663272
+AFTER GOODRUNSLIST:		0
+	 **Cutflow in Region C Period 1**
+
+
+	**QCD ESTIMATE**	
+Na:	52.5853
+Nb:	28.8924
+Nc:	0.954601
+Nd:	0.625644

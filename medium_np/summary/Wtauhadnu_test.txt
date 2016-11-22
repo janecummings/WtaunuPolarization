@@ -1,0 +1,46 @@
+Thu Sep 29 16:46:09 2011
+
+	 ********SUMMARY*********
+Sample:	Wtauhadnu, XSection:	6777.03
+TOTAL NUMBER OF EVENTS:		10000
+Period 1: 6362  Period 2: 0
+Weighted AB Period 1: 6374.51
+Weighted AB Period 2: 0
+Weighted CD Period 1: 6374.51
+Weighted CD Period 2: 0
+AFTER GOODRUNSLIST:		0
+	 **Cutflow in Region C Period 1**
+Trigger:			9230.62
+CLSN Cleaning:			9230.62
+Jet Cleaning:			9230.62
+Gap Jet Veto:			7259.3
+DPhi(Jet,MET):			6755.88
+MET>30GeV:			5022.5
+Tau ID, PT>20:			1822.11
+Tau Pt Cut:			1796.75
+Gap Tau Veto:			1796.75
+TauID Lep Veto:			1525.96
+El Veto:			1525.96
+Mu Veto:			1525.96
+MET Sig:			733.42
+
+	 **Cutflow in Region C: Period 2**
+Trigger:			nan
+CLSN Cleaning:			nan
+Jet Cleaning:			nan
+Gap Jet Veto:			nan
+DPhi(Jet,MET):			nan
+MET>30GeV:			nan
+Tau ID, PT>20:			nan
+Tau Pt Cut:			nan
+Gap Tau Veto:			nan
+TauID Lep Veto:			nan
+El Veto:			nan
+Mu Veto:			nan
+MET Sig:			nan
+
+	**QCD ESTIMATE**	
+Na:	nan
+Nb:	nan
+Nc:	nan
+Nd:	nan

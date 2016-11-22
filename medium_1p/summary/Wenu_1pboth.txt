@@ -1,0 +1,19 @@
+Fri Dec 16 14:49:05 2011
+
+	 ********SUMMARY*********
+Sample:	Wenu, XSection:	10460
+TOTAL NUMBER OF EVENTS:		1.39883e+06
+Period 1: 475378  Period 2: 922814
+Weighted AB Period 1: 474094
+Weighted AB Period 2: 922558
+Weighted CD Period 1: 474094
+Weighted CD Period 2: 921129
+AFTER GOODRUNSLIST:		0
+	 **Cutflow in Region C Period 1**
+
+
+	**QCD ESTIMATE**	
+Na:	53.6255
+Nb:	23.4165
+Nc:	8.69997
+Nd:	3.18154

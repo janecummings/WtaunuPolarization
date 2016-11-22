@@ -1,0 +1,34 @@
+Wed Dec 14 15:32:00 2011
+
+	 ********SUMMARY*********
+Sample:	All_Data_P2, XSection:	1
+TOTAL NUMBER OF EVENTS:		711618
+Period 1: 0  Period 2: 660755
+Weighted AB Period 1: 0
+Weighted AB Period 2: 660755
+Weighted CD Period 1: 0
+Weighted CD Period 2: 660755
+AFTER GOODRUNSLIST:		660774
+	 **Cutflow in Region C Period 1**
+
+
+	 **Cutflow in Region A: P1+P2**
+Trigger:			489182
+CLSN Cleaning:			489182
+Jet Cleaning:			488611
+Gap Jet Veto:			346244
+DPhi(Jet,MET):			171984
+MET>30GeV:			171984
+Tau ID, PT>20:			24458
+Tau Pt Cut:			23890
+Gap Tau Veto:			23890
+TauID Lep Veto:			6102
+El Veto:			5914
+Mu Veto:			5727
+MET Sig:			1415
+
+	**QCD ESTIMATE**	
+Na:	1136
+Nb:	2470
+Nc:	122
+Nd:	2537

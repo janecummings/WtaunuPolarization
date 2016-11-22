@@ -1,0 +1,46 @@
+Tue Oct  4 16:10:46 2011
+
+	 ********SUMMARY*********
+Sample:	Wtaulepnu, XSection:	3682.97
+TOTAL NUMBER OF EVENTS:		998082
+Period 1: 121916  Period 2: 236878
+Weighted AB Period 1: 122067
+Weighted AB Period 2: 236902
+Weighted CD Period 1: 122067
+Weighted CD Period 2: 237688
+AFTER GOODRUNSLIST:		0
+	 **Cutflow in Region C Period 1**
+Trigger:			3132.68
+CLSN Cleaning:			3132.68
+Jet Cleaning:			3132.68
+Gap Jet Veto:			2548.35
+DPhi(Jet,MET):			2407.86
+MET>30GeV:			1486.78
+Tau ID, PT>20:			294.387
+Tau Pt Cut:			291.433
+Gap Tau Veto:			291.433
+TauID Lep Veto:			17.0001
+El Veto:			14.7761
+Mu Veto:			12.1934
+MET Sig:			4.83041
+
+	 **Cutflow in Region C: Period 2**
+Trigger:			4345.93
+CLSN Cleaning:			4345.93
+Jet Cleaning:			4345.93
+Gap Jet Veto:			3548.21
+DPhi(Jet,MET):			3341.17
+MET>30GeV:			2222.58
+Tau ID, PT>20:			481.786
+Tau Pt Cut:			476.652
+Gap Tau Veto:			476.652
+TauID Lep Veto:			27.418
+El Veto:			20.8101
+Mu Veto:			17.9601
+MET Sig:			10.301
+
+	**QCD ESTIMATE**	
+Na:	9.0484
+Nb:	5.55807
+Nc:	13.2042
+Nd:	2.95937

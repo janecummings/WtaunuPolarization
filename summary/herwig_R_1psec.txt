@@ -1,0 +1,19 @@
+Sat Dec 17 22:11:44 2011
+
+	 ********SUMMARY*********
+Sample:	herwig_R, XSection:	4340.9
+TOTAL NUMBER OF EVENTS:		299938
+Period 1: 0  Period 2: 299870
+Weighted AB Period 1: 0
+Weighted AB Period 2: 298338
+Weighted CD Period 1: 0
+Weighted CD Period 2: 298794
+AFTER GOODRUNSLIST:		0
+	 **Cutflow in Region C Period 1**
+
+
+	**QCD ESTIMATE**	
+Na:	1562.66
+Nb:	399.116
+Nc:	25.3669
+Nd:	9.19814

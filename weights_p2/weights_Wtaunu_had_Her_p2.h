@@ -1,0 +1,10 @@
+corr_Second_AB[0] = 1.35553;
+corr_Second_AB[1] = 1.05986;
+corr_Second_AB[2] = 0.921424;
+corr_Second_AB[3] = 0.875416;
+corr_Second_AB[4] = 0.863379;
+corr_Second_CD[0] = 1.88195;
+corr_Second_CD[1] = 1.21704;
+corr_Second_CD[2] = 0.869706;
+corr_Second_CD[3] = 0.671632;
+corr_Second_CD[4] = 0.511798;

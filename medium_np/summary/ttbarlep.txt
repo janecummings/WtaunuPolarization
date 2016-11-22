@@ -1,0 +1,46 @@
+Sun Oct  2 14:02:02 2011
+
+	 ********SUMMARY*********
+Sample:	ttbarlep, XSection:	80.064
+TOTAL NUMBER OF EVENTS:		199861
+Period 1: 67952  Period 2: 131909
+Weighted AB Period 1: 52213.9
+Weighted AB Period 2: 102404
+Weighted CD Period 1: 52213.9
+Weighted CD Period 2: 102224
+AFTER GOODRUNSLIST:		0
+	 **Cutflow in Region C Period 1**
+Trigger:			531.308
+CLSN Cleaning:			531.308
+Jet Cleaning:			531.308
+Gap Jet Veto:			276.954
+DPhi(Jet,MET):			156.615
+MET>30GeV:			145.521
+Tau ID, PT>20:			22.4533
+Tau Pt Cut:			18.409
+Gap Tau Veto:			18.409
+TauID Lep Veto:			6.57923
+El Veto:			5.44834
+Mu Veto:			3.85606
+MET Sig:			2.12343
+
+	 **Cutflow in Region C: Period 2**
+Trigger:			775.285
+CLSN Cleaning:			775.285
+Jet Cleaning:			775.285
+Gap Jet Veto:			398.619
+DPhi(Jet,MET):			220.044
+MET>30GeV:			204.842
+Tau ID, PT>20:			39.9294
+Tau Pt Cut:			32.4087
+Gap Tau Veto:			32.4087
+TauID Lep Veto:			11.4824
+El Veto:			9.47882
+Mu Veto:			6.887
+MET Sig:			4.18113
+
+	**QCD ESTIMATE**	
+Na:	6.30456
+Nb:	2.10767
+Nc:	2.76447
+Nd:	0.723684

@@ -1,0 +1,19 @@
+Fri Dec 16 14:34:05 2011
+
+	 ********SUMMARY*********
+Sample:	Wtaulepnu, XSection:	3682.97
+TOTAL NUMBER OF EVENTS:		998082
+Period 1: 121869  Period 2: 236763
+Weighted AB Period 1: 122027
+Weighted AB Period 2: 237205
+Weighted CD Period 1: 122027
+Weighted CD Period 2: 237421
+AFTER GOODRUNSLIST:		0
+	 **Cutflow in Region C Period 1**
+
+
+	**QCD ESTIMATE**	
+Na:	6.50822
+Nb:	2.90635
+Nc:	4.49512
+Nd:	0.680758

@@ -1,0 +1,19 @@
+Fri Jan 20 00:50:14 2012
+
+	 ********SUMMARY*********
+Sample:	ttbarlep, XSection:	80.064
+TOTAL NUMBER OF EVENTS:		199861
+Period 1: 67952  Period 2: 131908
+Weighted AB Period 1: 52206.1
+Weighted AB Period 2: 102407
+Weighted CD Period 1: 52206.1
+Weighted CD Period 2: 102173
+AFTER GOODRUNSLIST:		0
+	 **Cutflow in Region C Period 1**
+
+
+	**QCD ESTIMATE**	
+Na:	3.28388
+Nb:	1.01723
+Nc:	0.100011
+Nd:	0.0328356

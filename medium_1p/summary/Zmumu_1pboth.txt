@@ -1,0 +1,19 @@
+Fri Dec 16 15:06:15 2011
+
+	 ********SUMMARY*********
+Sample:	Zmumu, XSection:	990
+TOTAL NUMBER OF EVENTS:		997867
+Period 1: 339197  Period 2: 658444
+Weighted AB Period 1: 337473
+Weighted AB Period 2: 659777
+Weighted CD Period 1: 337473
+Weighted CD Period 2: 656824
+AFTER GOODRUNSLIST:		0
+	 **Cutflow in Region C Period 1**
+
+
+	**QCD ESTIMATE**	
+Na:	0.711588
+Nb:	0.385132
+Nc:	0.194165
+Nd:	0.023134
