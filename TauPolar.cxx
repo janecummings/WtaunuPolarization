@@ -124,16 +124,11 @@ void Run(int INfile, bool test, bool plotid, bool prong){
   case 0:
     // if(!test) chain->Add("/work/czyczula/TauD3PDs/user.ZofiaCzyczula.00167844.JetTauEtmiss-AOD.r1774_p327_p333.01-00-01-01.D3PD_SKIM_BASIC.110722153834/*.root/tauPerf");
     //chain->Add("/work/czyczula/TauD3PDs/user.ZofiaCzyczula.00167844.JetTauEtmiss-AOD.r1774_p327_p333.01-00-01-01.D3PD_SKIM_BASIC.110722153834/*.root/tauPerf");
-    //#include "AllData.h"
-    //#include "AllData_new.h"
-    //#include "AllData2.h"
     if(runP =="sec"){
 #include "AllDataSecond.h"
     }
     else if(runP == "both"){
 #include "AllData.h"
-      //#include "AllDataFirst.h"
-      //#include "AllDataSecond.h"
     }
 
 outputroot = "allData"; outputtxt = "allData"; sample = "All_Data";
